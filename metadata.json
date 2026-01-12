@@ -1,0 +1,5 @@
+{
+  "name": "CommuteMelody - Daily Transit Playlists",
+  "description": "An AI-powered music recommendation app that suggests 7 tracks tailored for your commute based on your favorite themes and genres.",
+  "requestFramePermissions": []
+}
